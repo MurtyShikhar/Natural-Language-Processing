@@ -1,13 +1,9 @@
 # Course Projects for NLP (COL 772)
 
 # Info
-models.py has the following models
-* deepDistMult
-* naiveDeepDistMult
-* distMult
-* E
-* E + distMult
-* biLSTM
+* A1.1:
+* A1.2:
+* A2:
 
 # Running instructions
 First clone the repository:
@@ -19,8 +15,7 @@ Make sure you have scipy >= 0.17 and numpy >= 1.11.1 by running:
 ```
 pip install -r requirements.txt
 ```
-*A1*: Has 
-*A2*: 
+ 
 
 Warning: No Documentation. Code may be slightly unreadable
 ```
