@@ -1,8 +1,8 @@
 # Course Projects for NLP (COL 772)
 
 # Info
-* A1.1:
-* A1.2:
+* A1.1: Sentiment mining over Twitter Data: 86.8% accuracy on dev set.
+* A1.2: Domain Adaptation based sentiment classifier
 * A2:
 
 # Running instructions
