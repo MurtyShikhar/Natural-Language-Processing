@@ -3,7 +3,7 @@
 # Info
 * A1.1: Sentiment mining over Twitter Data: 86.8% accuracy on dev set.
 * A1.2: Domain Adaptation based sentiment classifier
-* A2:
+* A2: NER tagging for Real estate data
 
 # Running instructions
 First clone the repository:
